@@ -1,4 +1,11 @@
+<div align="center">
+  
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9911e95e-9856-4703-abb1-761924f3aa2d" />
+
+
 # Portable Intrusion Detection System for Security Information and Event Management
+</div>
+
 
 ## 📄 Overview
 This project presents the design and implementation of a **portable Intrusion Detection and Prevention System (IDPS)** integrated with a **Security Information and Event Management (SIEM)** solution, using open-source tools such as **Wazuh** and **Suricata**.  
