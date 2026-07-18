@@ -27,7 +27,7 @@ The implemented topology includes:
 - **1 Suricata instance** for intrusion detection and packet analysis
 - **Slack integration** for real-time threat notifications
 
-### Components
+## Components
 | Tool | Description |
 |------|--------------|
 | **Wazuh** | Open-source SIEM providing intrusion detection, file integrity monitoring, and compliance management. |
@@ -77,7 +77,7 @@ Three main attack simulations were executed:
 
 ---
 
-## 📚 References
+##  References
 1. Yousef Hashem et al., *Endpoint Intrusion Detection and Response Agents in Embedded RAN Products*, 2022.  
 2. Fuad Mat Isa et al., *Comprehensive performance assessment on open source intrusion detection systems*, Springer, 2019.  
 3. Adabi Raihan Muhammad et al., *Integrated SIEM with IDS for Live Analysis based on Machine Learning*, Procedia Computer Science, 2023.  
@@ -87,5 +87,5 @@ Three main attack simulations were executed:
 
 ---
 
-## 🧩 Keywords
+##  Keywords
 `SIEM`, `IDS`, `IPS`, `Wazuh`, `Suricata`, `Network Security`, `Brute Force Attack`, `Slack Integration`, `Open Source`, `Cybersecurity`
