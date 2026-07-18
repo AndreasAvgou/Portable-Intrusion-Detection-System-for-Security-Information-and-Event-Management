@@ -56,7 +56,7 @@ Three main attack simulations were executed:
 
 ---
 
-## 📈 Results
+## Results
 - The system effectively detected and reported all simulated attacks.  
 - TCP-based vulnerabilities were identified as the primary risk vector.  
 - Demonstrated successful integration of **Wazuh + Suricata + Slack** for automated monitoring and alerting.
