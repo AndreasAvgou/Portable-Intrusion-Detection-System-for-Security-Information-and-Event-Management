@@ -7,13 +7,13 @@
 </div>
 
 
-## 📄 Overview
+## Overview
 This project presents the design and implementation of a **portable Intrusion Detection and Prevention System (IDPS)** integrated with a **Security Information and Event Management (SIEM)** solution, using open-source tools such as **Wazuh** and **Suricata**.  
 The system was deployed in a real network environment to detect vulnerabilities, monitor security events, and respond to potential attacks in real time.
 
 ---
 
-## 🧠 Abstract
+## Abstract
 Wireless network attacks are among the most serious modern cybersecurity threats. This project implements a **portable intrusion detection system** that integrates with a SIEM framework to monitor, detect, and alert for suspicious network activity.  
 Using **Wazuh** for centralized log management and **Suricata** for packet analysis, the system automates threat detection and sends alerts via **Slack**. It demonstrates how open-source solutions can enhance network security visibility and proactive defense.
 
