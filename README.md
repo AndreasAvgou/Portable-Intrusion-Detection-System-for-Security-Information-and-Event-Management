@@ -63,21 +63,21 @@ Three main attack simulations were executed:
 
 ---
 
-## 🔒 Conclusions
+## Conclusions
 - Network security can be enhanced significantly using **open-source IDPS + SIEM** combinations.  
 - Real-time alerting and centralized log analysis improve the speed and accuracy of incident response.  
 - Further attention should be given to both TCP and UDP vulnerabilities.
 
 ---
 
-## 🚀 Future Work
+## Future Work
 - Full deployment of the system in production for continuous monitoring.  
 - Extend monitoring to **Microsoft 365 Cloud services** used by the organization.  
 - Develop a **Security Best Practices Guide** to mitigate discovered weaknesses.
 
 ---
 
-##  References
+## References
 1. Yousef Hashem et al., *Endpoint Intrusion Detection and Response Agents in Embedded RAN Products*, 2022.  
 2. Fuad Mat Isa et al., *Comprehensive performance assessment on open source intrusion detection systems*, Springer, 2019.  
 3. Adabi Raihan Muhammad et al., *Integrated SIEM with IDS for Live Analysis based on Machine Learning*, Procedia Computer Science, 2023.  
@@ -87,5 +87,5 @@ Three main attack simulations were executed:
 
 ---
 
-##  Keywords
+## Keywords
 `SIEM`, `IDS`, `IPS`, `Wazuh`, `Suricata`, `Network Security`, `Brute Force Attack`, `Slack Integration`, `Open Source`, `Cybersecurity`
