@@ -19,7 +19,7 @@ Using **Wazuh** for centralized log management and **Suricata** for packet analy
 
 ---
 
-## ⚙️ System Architecture
+## System Architecture
 The implemented topology includes:
 - **5 Windows systems (victims)**
 - **1 Kali Linux system (attacker)**
@@ -36,7 +36,7 @@ The implemented topology includes:
 
 ---
 
-## 🧪 Attack Scenarios
+## Attack Scenarios
 Three main attack simulations were executed:
 
 1. **Network Scan (IP Discovery)**  
