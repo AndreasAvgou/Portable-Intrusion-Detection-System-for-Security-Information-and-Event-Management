@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9911e95e-9856-4703-abb1-761924f3aa2d" />
+<img width="1180" height="720" alt="image" src="https://github.com/user-attachments/assets/9911e95e-9856-4703-abb1-761924f3aa2d" />
 
 
 # Portable Intrusion Detection System for Security Information and Event Management
