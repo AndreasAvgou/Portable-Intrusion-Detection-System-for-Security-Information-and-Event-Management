@@ -9,7 +9,7 @@
 ---
 
 ## Overview
-This project presents the design and implementation of a **portable Intrusion Detection and Prevention System (IDPS)** integrated with a Security Information and Event Management (SIEM) solution, using open-source tools such as **Wazuh** and **Suricata**.  
+This project presents the design and implementation of a portable Intrusion Detection and Prevention System (IDPS) integrated with a Security Information and Event Management (SIEM) solution, using open-source tools such as **Wazuh** and **Suricata**.  
 The system was deployed in a real network environment to detect vulnerabilities, monitor security events, and respond to potential attacks in real time.
 
 ---
